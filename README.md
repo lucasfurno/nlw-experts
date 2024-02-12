@@ -1,12 +1,3 @@
-# nlw-experts
-
-## Tecnologias utilizadas
-
-- HTML
-- CSS
-- JavaScript
-- Git
-
 # HTML
 
 HyperText Markup Language
@@ -16,6 +7,10 @@ Atributos
 
 # CSS
   Cascading Style Sheet
+
+# JavaScript
+
+__ JavaScript não é Java __
 
 ```js
 //
