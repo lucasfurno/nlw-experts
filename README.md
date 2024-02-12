@@ -10,7 +10,7 @@ Atributos
 
 # JavaScript
 
-__ JavaScript não é Java __
+_JavaScript não é Java_
 
 ```js
 //
